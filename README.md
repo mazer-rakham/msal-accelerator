@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## This accelerator is a starting point for MSAL, this code will automatically start a Microsoft SSO login process when someone visits the Protected Route, it will also take the URL of the ORIGINAL page and pass it through as a state object so that if there are multiple protected routes, it will keep you on the page that was shared to you like other Microsoft Applications
 This Accelerator has NO backend it is a traditional SPA, you will need to create powershell scripts to mount the env vars to a keyvault or another protected source. 
 
-## If there are ANY issues with this Accelerator, please contact Thomas "TFlock" Flock thomas.flock@slalom.com
+
 
 Known issues:
 
